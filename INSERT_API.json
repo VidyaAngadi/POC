@@ -1,0 +1,8 @@
+[
+  {
+    "query": "INSERT INTO MY_TABLE(id, name) VALUES ('4', 'VARSHA')"
+  },
+  {
+    "query": "INSERT INTO MY_TABLE(id, name) VALUES ('5', 'VIDYA')"
+  }
+]
